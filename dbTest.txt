@@ -1,0 +1,40 @@
+exam table
+
+---
+
+subject_id
+course_id
+
+type- annoucement, subject 
+start_date
+start_time
+end_date
+end_time
+duration 
+
+ca - start_Date
+
+exam_registration
+exam_id
+user_id
+
+exam_attendance
+exam_id
+user_id
+
+mark/result table
+subject_id
+exam_id
+user_id
+
+Report table
+user_id
+type
+subject_id
+
+
+
+
+
+
+
