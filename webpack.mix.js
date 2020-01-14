@@ -11,5 +11,14 @@ const mix = require('laravel-mix');
  |
  */
 
-mix.js('resources/js/app.js', 'public/js')
-    .sass('resources/sass/app.scss', 'public/css');
+// mix.js('resources/js/app.js', 'public/js')
+//     .sass('resources/sass/app.scss', 'public/css');
+//compile the scripts files into public/admin/all.css
+mix.styles([
+    'resources/css/vendor/fullcalendar.bundle.css',
+    'resources/css/vendor/style.bundle.min.css'
+], 'public/admin/all.css');
+//compile the scripts files into public/admin/all.js
+mix.scripts([
+    'resources/css/vendor/style.bundle.min.js'
+], 'public/admin/all.js');
