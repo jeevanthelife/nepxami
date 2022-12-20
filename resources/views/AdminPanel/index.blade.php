@@ -3092,7 +3092,7 @@ License: You must have a valid license purchased only from themeforest(the above
 							<div class="kt-header__topbar-wrapper" data-toggle="dropdown" data-offset="0px,0px">
 								<div class="kt-header__topbar-user">
 									<span class="kt-header__topbar-welcome kt-hidden-mobile">Hi,</span>
-									<span class="kt-header__topbar-username kt-hidden-mobile">Sean</span>
+									<span class="kt-header__topbar-username kt-hidden-mobile">John</span>
 									<img class="kt-hidden" alt="Pic" src="../assets/media/users/300_25.jpg" />
 
 									<!--use below badge element instead the user avatar to display username's first letter(remove kt-hidden class to display it) -->
@@ -3114,7 +3114,7 @@ License: You must have a valid license purchased only from themeforest(the above
 											class="kt-badge kt-badge--lg kt-badge--rounded kt-badge--bold kt-font-success">S</span>
 									</div>
 									<div class="kt-user-card__name">
-										Sean Stone
+										John Carter
 									</div>
 									<div class="kt-user-card__badge">
 										<span class="btn btn-success btn-sm btn-bold btn-font-md">23 messages</span>
@@ -4671,7 +4671,7 @@ License: You must have a valid license purchased only from themeforest(the above
 																Prepare Docs For Metting On Monday
 															</a>
 															<a href="#" class="kt-widget2__username">
-																By Sean
+																By John
 															</a>
 														</div>
 														<div class="kt-widget2__actions">
@@ -4947,7 +4947,7 @@ License: You must have a valid license purchased only from themeforest(the above
 																Completa Financial Report For Emirates Airlines
 																</p>
 																<a href="#" class="kt-widget2__username">
-																	By Sean
+																	By John
 																</a>
 														</div>
 														<div class="kt-widget2__actions">
@@ -5089,7 +5089,7 @@ License: You must have a valid license purchased only from themeforest(the above
 																Prepare Docs For Metting On Monday
 															</a>
 															<a href="#" class="kt-widget2__username">
-																By Sean
+																By John
 															</a>
 														</div>
 														<div class="kt-widget2__actions">
@@ -5296,7 +5296,7 @@ License: You must have a valid license purchased only from themeforest(the above
 																Completa Financial Report For Emirates Airlines
 															</a>
 															<a href="#" class="kt-widget2__username">
-																By Sean
+																By John
 															</a>
 														</div>
 														<div class="kt-widget2__actions">
@@ -5645,7 +5645,7 @@ License: You must have a valid license purchased only from themeforest(the above
 																Completa Financial Report For Emirates Airlines
 															</a>
 															<a href="#" class="kt-widget2__username">
-																By Sean
+																By John
 															</a>
 														</div>
 														<div class="kt-widget2__actions">
